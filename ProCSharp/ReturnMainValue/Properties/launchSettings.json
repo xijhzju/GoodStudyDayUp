@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReturnMainValue": {
+      "commandName": "Project",
+      "commandLineArgs": "asd bde sfe"
+    }
+  }
+}
