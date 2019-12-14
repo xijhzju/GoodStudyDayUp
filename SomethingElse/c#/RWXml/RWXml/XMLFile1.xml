@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name>ZhangSan</name>
+    <class>三5班</class>
+    <subject>数学</subject>
+    <score>97</score>
+  </student>
+  <student>
+    <name>LiSi</name>
+    <class>三4班</class>
+    <subject>数学</subject>
+    <score>88</score>
+  </student>
+  <student>
+    <name>WangEr</name>
+    <class>三1班</class>
+    <subject>数学</subject>
+    <score>55</score>
+  </student>
+</students>
